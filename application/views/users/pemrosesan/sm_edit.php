@@ -123,6 +123,7 @@
                       <select class="form-control" name="sifat" id="sifat">
                         <option value="<?php echo $query->sifat; ?>"><?php echo $query->sifat; ?></option>
                         <option value="">--Sifat--</option>
+                        <option value="Biasa">Biasa</option>
                         <option value="Sangat Segera">Sangat Segera</option>
                         <option value="Segera">Segera</option>
                         <option value="Kilat">Kilat</option>

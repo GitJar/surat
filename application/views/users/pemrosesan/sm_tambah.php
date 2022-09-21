@@ -144,6 +144,7 @@ $cek_ns = $this->db->get('tbl_sm');
                       <span class="input-group-addon"><i class="icon-move"></i></span>
                       <select class="form-control" name="sifat" id="sifat">
                         <option value="">--Sifat--</option>
+                        <option value="Biasa">Biasa</option>
                         <option value="Sangat Segera">Sangat Segera</option>
                         <option value="Segera">Segera</option>
                         <option value="Kilat">Kilat</option>
